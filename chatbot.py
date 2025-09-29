@@ -152,7 +152,7 @@ def bot_response(user_input):
     if "admission" in user_input:
         return "The admission process starts in June. You need to fill out the online form and appear for counseling."
     elif "fees" in user_input:
-        return "The course fees vary by program. For B.Tech it's ₹1,20,000 per year, and for MBA it's ₹1,50,000 per year."
+        return "The course fees vary by program. For B.Tech it's ₹1,20,000 per year, and for MBA it's ₹1,50,000 per year,for BCS it's 35,000 per year,for Bsc it's 3000."
     elif "hostel" in user_input:
         return "Yes, we provide hostel facilities with separate hostels for boys and girls. Fees: ₹50,000 per year."
     elif "scholarship" in user_input:
@@ -175,3 +175,4 @@ def home():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
