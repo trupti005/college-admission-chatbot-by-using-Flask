@@ -137,12 +137,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🏢 Supported By
 
 **NEWGEN TECH** - Technology Partner and Support
-
-## 📧 Contact
-
-For questions or support, please contact:
+  For questions or support, please contact:
 - Developer: Trupti Savale
-- Email: your.email@example.com
 - Project Link: [https://github.com/truptisavale/college-admission-chatbot](https://github.com/truptisavale/college-admission-chatbot)
 
 ## 🙏 Acknowledgments
