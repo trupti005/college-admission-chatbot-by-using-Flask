@@ -131,8 +131,7 @@ Contributions are welcome! To contribute:
 
 ## 🏢 Supported By
 
-**NEWGEN TECH** - Technology Partner and Support
-  For questions or support, please contact:
+**NEWGEN TECH** 
 - Developer: Trupti Savale
 - Project Link: [https://github.com/truptisavale/college-admission-chatbot](https://github.com/truptisavale/college-admission-chatbot)
 
